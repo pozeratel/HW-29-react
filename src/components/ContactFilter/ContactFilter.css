@@ -1,0 +1,3 @@
+﻿.contact-filter { display: grid; gap: 7px; min-width: min(260px, 100%); color: #536157; font-size: 12px; font-weight: 700; }
+.contact-filter input { box-sizing: border-box; width: 100%; border: 1px solid #d9e1d9; border-radius: 10px; padding: 11px 12px; background: #fff; color: #203129; font: inherit; font-weight: 400; }
+.contact-filter input:focus { outline: 3px solid #39725720; border-color: #397257; }

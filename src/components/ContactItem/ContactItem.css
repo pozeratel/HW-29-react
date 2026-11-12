@@ -1,0 +1,8 @@
+﻿.contact-item { display: flex; align-items: center; gap: 14px; padding: 14px; border: 1px solid #e7ece7; border-radius: 13px; background: #fff; }
+.contact-item__avatar { display: grid; place-items: center; flex: 0 0 42px; height: 42px; border-radius: 50%; background: #e6f0e9; color: #245c42; font-weight: 750; }
+.contact-item__details { min-width: 0; flex: 1; }
+.contact-item__details h3 { overflow: hidden; margin: 0 0 4px; color: #22372b; font-size: 15px; text-overflow: ellipsis; white-space: nowrap; }
+.contact-item__details a { color: #66766a; font-size: 13px; text-decoration: none; }
+.contact-item__details a:hover { color: #245c42; text-decoration: underline; }
+.contact-item__delete { border: 1px solid #edd7d5; border-radius: 8px; background: #fff; color: #a24942; padding: 8px 10px; font: inherit; font-size: 12px; cursor: pointer; }
+.contact-item__delete:hover { background: #fbf0ef; }
